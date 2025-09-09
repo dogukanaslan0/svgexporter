@@ -54,6 +54,7 @@ Supports multiple views, camera projection with clipping, and automatic canvas s
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
+<img width="2683" height="745" alt="svgexport" src="https://github.com/user-attachments/assets/4ed024d6-1260-42d8-aa20-84121798eed9" />
 
 ## Screenshots
 
